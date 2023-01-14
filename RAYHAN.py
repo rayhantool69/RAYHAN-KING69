@@ -399,13 +399,11 @@ logo = ("""\033[1;32m
                                                       
 █████ █████ █████ █████ █████ █████ █████ █████ █████
   
-           Owner   :  RAYHAN MAHMUD 🔥
+           Owner   :  RAYHAN 🔥
  
-           Github   :  RAYHANTOOL69 🔰
+           Github   :  PARSONAL 🔰
 
-           Facebook : rayhanmahmud.ofc 👅
- 
-           Youtube : RAYHAN MAHMUD YT 🖤
+           Facebook : Mohammad Kuddus 👅
   
            Contact : +8801304438087 ⚠️
            
@@ -432,7 +430,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/rayhanmahmud.ofc")
+			os.system("xdg-open https://www.facebook.com/iloveeyouu.bbe")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Type My Facebook I'd Name: ")
